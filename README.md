@@ -1,3 +1,4 @@
+![TESTS](https://github.com/alexisxz/todo-app/actions/workflows/node.js.yml/badge.svg)
 # Dynamic todo app
 
 ## Getting Started
@@ -15,6 +16,7 @@ yarn dev
  - Typescript
  - Styled-components for styles
  - Vitest(Jest syntax) for unit test
+ - CI(Continuos Integrations) with node.js.yml
 
 ## App
 
